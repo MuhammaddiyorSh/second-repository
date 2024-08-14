@@ -1,0 +1,64 @@
+/*.box > p{
+   color: red; 
+}*/
+/*.box + p{
+    color: red;  
+}*/
+/*.box ~ p{
+    color: red;
+}*/
+/* p::first-letter{
+    color: red;
+} */
+/* p::first-line{
+    color: red;
+ } */
+/* p::selection{
+    color: red;
+    background-color: aqua;
+  } */
+/* p:first-child{
+    color: red;
+   } */
+/* p:last-child{
+    color: red;
+   } */
+/* p:first-of-type{
+        color: red;
+    } */
+/* p:last-of-type{
+        color: red;
+     } */
+
+
+
+
+
+
+/* p:nth-child(2n-1) {
+    color: red;
+} */
+
+/* p:nth-last-of-type(3){
+        color: red;
+      } */
+
+/* p:not(#text){
+        color: red;
+    } */
+ /* input[type="email"]:valid{
+        background-color: red;
+     } */ 
+/* input[type="checked"]{
+        width: 15;
+        height: 15;
+      } */
+/* input[type="text"]:disabled{
+        background-color: red;
+       } */
+/* input[type="text"]:focus{
+        background-color: red;
+       } */
+/* input[type="text"]:required{
+        background-color: red;
+       } */
